@@ -184,6 +184,14 @@
 			"Name": "SkyCreatorPlugin",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/b9aa540db8c54f7d928c61d3b30cb955"
+		},
+		{
+			"Name": "OWLLivestreamingToolkit",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/92307b570d474fbc87592b973ce82e3b",
+			"SupportedTargetPlatforms": [
+				"Win64"
+			]
 		}
 	]
 }
